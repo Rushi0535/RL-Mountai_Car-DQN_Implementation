@@ -1,1 +1,1 @@
-# RL-Mountai_Car-DQN_Implementation
+# RL-Mountain_Car-DQN_Implementation
